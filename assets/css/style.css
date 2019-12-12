@@ -11,6 +11,7 @@
 .navbar {
     background-color: teal;
 }
+<<<<<<< HEAD
 #about{
     height: 9em;
 }
@@ -32,6 +33,17 @@
 .details{
     color: black;
 }
+=======
+
+.container {
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: rgb(170, 216, 216);
+}
+
+>>>>>>> 3d9137e1dad154f88b58d9dda00090cb33aee989
 .full {
     width: 100%;
 }
